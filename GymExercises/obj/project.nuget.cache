@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+VXU7452E9M=",
+  "dgSpecHash": "1NCl4CAbABU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Veljko\\Desktop\\GymExercisesApp\\GymExercises\\GymExercises\\GymExercises.csproj",
+  "projectFilePath": "C:\\Users\\Veljko\\Desktop\\GymExercises\\GymExercises\\GymExercises\\GymExercises.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Veljko\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Veljko\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

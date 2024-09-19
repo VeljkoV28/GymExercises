@@ -9,107 +9,107 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GymExercises
 build_property.RootNamespace = GymExercises
-build_property.ProjectDir = C:\Users\Veljko\Desktop\GymExercisesApp\GymExercises\GymExercises\
+build_property.ProjectDir = C:\Users\Veljko\Desktop\GymExercises\GymExercises\GymExercises\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Veljko\Desktop\GymExercisesApp\GymExercises\GymExercises
+build_property.MSBuildProjectDirectory = C:\Users\Veljko\Desktop\GymExercises\GymExercises\GymExercises
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/Exercises/Create.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/Exercises/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/Exercises/Delete.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/Exercises/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/Exercises/Details.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/Exercises/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/Exercises/Edit.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/Exercises/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/Exercises/Index.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/Exercises/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/Home/Index.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/Home/Privacy.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/Shared/Error.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/UserExercises/Create.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/UserExercises/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckV4ZXJjaXNlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/UserExercises/Delete.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/UserExercises/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckV4ZXJjaXNlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/UserExercises/Details.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/UserExercises/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckV4ZXJjaXNlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/UserExercises/Edit.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/UserExercises/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckV4ZXJjaXNlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/UserExercises/Index.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/UserExercises/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckV4ZXJjaXNlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/Users/Create.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/Users/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/Users/Delete.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/Users/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/Users/Details.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/Users/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/Users/Edit.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/Users/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/Users/Index.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/Users/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/_ViewImports.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/_ViewStart.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Veljko/Desktop/GymExercisesApp/GymExercises/GymExercises/Views/Shared/_Layout.cshtml]
+[C:/Users/Veljko/Desktop/GymExercises/GymExercises/GymExercises/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-6w4f3lr8i5

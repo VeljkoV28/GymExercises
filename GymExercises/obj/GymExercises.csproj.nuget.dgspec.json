@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Veljko\\Desktop\\GymExercisesApp\\GymExercises\\GymExercises\\GymExercises.csproj": {}
+    "C:\\Users\\Veljko\\Desktop\\GymExercises\\GymExercises\\GymExercises\\GymExercises.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Veljko\\Desktop\\GymExercisesApp\\GymExercises\\GymExercises\\GymExercises.csproj": {
+    "C:\\Users\\Veljko\\Desktop\\GymExercises\\GymExercises\\GymExercises\\GymExercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Veljko\\Desktop\\GymExercisesApp\\GymExercises\\GymExercises\\GymExercises.csproj",
+        "projectUniqueName": "C:\\Users\\Veljko\\Desktop\\GymExercises\\GymExercises\\GymExercises\\GymExercises.csproj",
         "projectName": "GymExercises",
-        "projectPath": "C:\\Users\\Veljko\\Desktop\\GymExercisesApp\\GymExercises\\GymExercises\\GymExercises.csproj",
+        "projectPath": "C:\\Users\\Veljko\\Desktop\\GymExercises\\GymExercises\\GymExercises\\GymExercises.csproj",
         "packagesPath": "C:\\Users\\Veljko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Veljko\\Desktop\\GymExercisesApp\\GymExercises\\GymExercises\\obj\\",
+        "outputPath": "C:\\Users\\Veljko\\Desktop\\GymExercises\\GymExercises\\GymExercises\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Veljko\\AppData\\Roaming\\NuGet\\NuGet.Config",
